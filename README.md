@@ -1,2 +1,3 @@
-this is newchanges in this repository
+this is newchanges in this repository..
+commite from remote rep to local rep..
 # devops-aws
